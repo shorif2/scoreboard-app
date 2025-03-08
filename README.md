@@ -1,2 +1,2 @@
 # scoreboard-app
-Created with CodeSandbox
+This is scoreboard app created with redux
